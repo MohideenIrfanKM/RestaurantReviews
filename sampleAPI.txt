@@ -1,0 +1,20 @@
+update
+    {
+        "userid":"2345",
+        "reviewid":"640c449177c89dd83521893c",
+        "text":"sorry my bad!! it is actually good. my previous review was wrong"
+    }
+
+post
+{
+    "name":"Iman",
+    "userid": "2345",
+    "restaurantid":"5eb3d668b31de5d588f4292a",
+    "text":"too bad"
+    }
+
+    
+
+
+how to restrict user from multile review
+git
